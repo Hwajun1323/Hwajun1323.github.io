@@ -1,11 +1,11 @@
 # Setup
-title: Not Pure Poole
-description: A simple, beautiful, and powerful Jekyll theme for blogs
+title: jjun study
+description: Life is a repetition of study.
 url: https://hwajun1323.github.io
-avatar: /avatar.jpeg
+avatar: /jelly.jpeg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /p3.jpeg
 
 # Gems
 plugins:
