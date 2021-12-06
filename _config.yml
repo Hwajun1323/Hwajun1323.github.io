@@ -2,10 +2,10 @@
 title: jjun study
 description: Life is a repetition of study.
 url: https://hwajun1323.github.io
-avatar: /jelly.jpeg
+avatar: /jelly.jpg
 paginate: 5
 permalink: pretty
-cover_image: /p3.jpeg
+cover_image: /p3.jpg
 
 # Gems
 plugins:
